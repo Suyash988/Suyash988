@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suyash Agnihotri</h1>
-<h3 align="center">A passionate full-stack developer and data scientist from India.</h3>
+<h3 align="center">A passionate full-stack developer from India.</h3>
 
-- 🔭 I’m currently working on **Stock Market Predictor ( deep trade insights)**
+- 🔭 I’m currently working on **Large Language Model(LLM)**
 
 - 🌱 I’m currently learning **machine learning, deep learning, GAN, three.js, mySQL.**
 
